@@ -1,0 +1,1 @@
+This is Nicholas Haugh's first git project!
